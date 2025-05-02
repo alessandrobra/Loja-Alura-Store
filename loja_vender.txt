@@ -1,19 +1,15 @@
-Com base nas análises realizadas, a loja que o Senhor João deve vender é a Loja 4.
+Com base na análise feita com os dados fornecidos e os critérios definidos (faturamento, frete médio e avaliação média), a loja que deve ser vendida é a Loja 3.
 
-Motivos da recomendação:
+Por quê?
 
-1. Menor faturamento total entre as quatro lojas, indicando baixo desempenho em vendas.
+Faturamento: não é o menor, mas está abaixo da média.
 
+Frete Médio: é o mais caro entre todas as lojas, o que pode afastar clientes.
 
-2. Pior média de avaliação dos clientes, o que sinaliza baixa satisfação e problemas na experiência de compra.
-
-
-3. Frete médio mais alto, o que pode estar afastando clientes e reduzindo a competitividade da loja.
+Avaliação dos Clientes: está abaixo das outras, exceto da Loja 4.
 
 
-4. Menor popularidade em categorias de produtos e produtos vendidos, o que sugere baixa variedade ou demanda.
+Quando somamos os ranks de desempenho em cada métrica, a Loja 3 apresenta o pior desempenho geral, ou seja, é a menos vantajosa para manter no portfólio.
 
 
 
-Esses fatores mostram que a Loja 4 apresenta o pior desempenho geral nas métricas mais relevantes. Portanto,
-vendê-la é uma decisão estratégica para gerar capital e focar em lojas mais lucrativas e promissoras.
